@@ -28,7 +28,7 @@ export default function App() {
         </button>
       </form>
       {isLoading && !displayData && (
-        <p className="loading">Detecting your location dear...</p>
+        <p className="loading">Detecting your location dear please wait...</p>
       )}
       {displayError && <p className="error">{displayError}</p>}
       {displayData && <WeatherCard data={displayData} />}
