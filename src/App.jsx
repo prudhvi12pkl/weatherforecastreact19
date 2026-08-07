@@ -19,7 +19,7 @@ export default function App() {
         <input
           name="city"
           type="text"
-          placeholder="Search city..."
+          placeholder="Search your city ..."
           className="search-input"
           autoComplete="off"
         />
