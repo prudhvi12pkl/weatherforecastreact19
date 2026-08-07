@@ -1,3 +1,5 @@
+//a perfect overview of weather app is here
+
 # 🌤️ Weather App
 
 A clean, responsive weather app built with **React 19** and **Vite**, powered by the OpenWeatherMap API. Search any city or let the app detect your location automatically — current conditions and a 5-day forecast load instantly.
