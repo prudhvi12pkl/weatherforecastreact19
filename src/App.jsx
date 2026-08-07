@@ -14,7 +14,7 @@ export default function App() {
 
   return (
     <main className="container">
-      <h1 className="title">Weather santh nagarrsjvlksksndfksdfnlekl</h1>
+      <h1 className="title">Weather santh nagar</h1>
       <form action={searchAction} className="search-form">
         <input
           name="city"
