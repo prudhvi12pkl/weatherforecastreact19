@@ -1,3 +1,5 @@
+//this is rebase -testing comment for the app
+
 import { useWeather } from "./hooks/useWeather";
 import { useGeoWeather } from "./hooks/useGeoWeather";
 import WeatherCard from "./components/WeatherCard";
