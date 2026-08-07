@@ -4,7 +4,6 @@
   border-radius: 5px;
   color: var(--accent);
   background: green;
-
   border: 2px solid transparent;
   transition: border-color 0.3s;
   margin-bottom: 24px;
